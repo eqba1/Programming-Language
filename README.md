@@ -3,7 +3,6 @@
 Spring 2021 at University of Kurdistan
 
 ## Presentation
-
 1. The ML Programming Language 
 ### **What is ML ?**
 ML is best thought as a mult-paradigm language: it supports both functional programming (through a full array of tools such as anonymous first-class functions) and imperative programming (through reference types and "functions" that have effects).
