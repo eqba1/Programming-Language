@@ -11,7 +11,7 @@ ML is strongly typed, but most of the time there is no need for the programmer t
 
 ML also has excellent support for Algebraic Data Types (ADTs). ADTs correspond more or less directly to algebras, which are one of the central themes of this course—and that is why ML seems to be the right language to illustrate the course.
 
-* [My Slide](Presentation/Slide.pdf)
+* [My Slide](Presentation/ML.pdf)
 
 ### [Getting Stated with ML](http://web.cecs.pdx.edu/~black/CS311/ML.html)
 * Moscow [ML Language Overview](http://www.itu.dk/people/sestoft/mosml/mosmlref.pdf) (includes grammar)
@@ -24,7 +24,15 @@ ML also has excellent support for Algebraic Data Types (ADTs). ADTs correspond m
 * [MLKit](http://elsman.com/mlkit/) (Linux)
 * [Moscow ML](https://www.itu.dk/people/sestoft/mosml.html) (Windows, Linux)
 
+### Useful link
+* [online standard ML Compiler](https://sosml.org/editor?0&)
+* [Follow the Coursera course [Programming Languages](https://www.coursera.org/course/proglang).
+* Read _[ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html)_ by Larry C. Paulson.
+* Use [StackOverflow’s sml tag](http://stackoverflow.com/questions/tagged/sml).
+* Solve exercises on [Exercism.io’s Standard ML track](https://exercism.io/tracks/sml).
 
+### Example ML Project
+* [N2O: Standard ML Application Server ](https://github.com/o1/n2o)
 ## Exam 
 Programming Language Exam 
 * [Spring 2021](#)
